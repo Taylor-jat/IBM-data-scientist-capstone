@@ -1,0 +1,1 @@
+This is a capstone project for the IBM Data Scientist course using data gathered from scraping a third party website tracking statistics of SpaceX, and Wikipedia and then creating prediction models, and a info dashboard for visitation of the gathered data.
